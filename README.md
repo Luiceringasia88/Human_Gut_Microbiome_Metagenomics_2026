@@ -61,8 +61,10 @@ The topics covered are:
 - [Jay Berkeley](https://chainnetwork.org/people/jay-berkley/), KEMRI-Wellcome Trust Research Programme, Kenya
 - [Anne Amulele (Vuruku)](https://www.linkedin.com/in/anne-amulele-b210311a5/), KEMRI-Wellcome Trust Research Programme, Kenya
 - [Jolynne Mokaya](https://www.linkedin.com/in/jolynne-mokaya/), Wellcome Sanger Institute, UK
-- [Cecilia Kyanya](), Wellcome Sanger Institute, UK
 - [Luicer Olubayo](https://www.wits.ac.za/people/academic-a-z-listing/o/luicerolubayowitsacza), Sydney Brenner Institute of Molecular Biosciences (SBIMB), University of Witwatersrand
+- [Rahma Golicha], Wellcome Sanger Institute, UK and KEMRI-Wellcome Trust Research Programme, Kenya
+- Syed Jayedul Bashar, icddr,b, Dhaka, Bangladesh
+- Julius Mulindwa, Makarere University, Uganda
 
 **Wellcome Connecting Science Team**
 
