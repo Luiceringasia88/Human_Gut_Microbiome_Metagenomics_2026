@@ -62,9 +62,9 @@ The topics covered are:
 - [Anne Amulele (Vuruku)](https://www.linkedin.com/in/anne-amulele-b210311a5/), KEMRI-Wellcome Trust Research Programme, Kenya
 - [Jolynne Mokaya](https://www.linkedin.com/in/jolynne-mokaya/), Wellcome Sanger Institute, UK
 - [Luicer Olubayo](https://www.wits.ac.za/people/academic-a-z-listing/o/luicerolubayowitsacza), Sydney Brenner Institute of Molecular Biosciences (SBIMB), University of Witwatersrand
-- [Rahma Golicha], Wellcome Sanger Institute, UK and KEMRI-Wellcome Trust Research Programme, Kenya
-- Syed Jayedul Bashar, icddr,b, Dhaka, Bangladesh
-- Julius Mulindwa, Makarere University, Uganda
+- [Rahma Golicha](https://www.linkedin.com/in/rahma-g-688a66190/), Wellcome Sanger Institute, UK and KEMRI-Wellcome Trust Research Programme, Kenya
+- [Syed Jayedul Bashar](https://www.linkedin.com/in/jayedul-bashar/), icddr,b, Dhaka, Bangladesh
+- [Julius Mulindwa](https://cns.mak.ac.ug/member/dr-julius-mulindwa-phd/), Makarere University, Uganda
 
 **Wellcome Connecting Science Team**
 
