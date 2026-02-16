@@ -4,8 +4,9 @@
 
 ## Learning Objectives
 
-- Understand phylogenetic concepts
-- Build trees using alignment data
+- Understand common methods of phylogenetic tree inference
+- Use IQ-TREE and FastTree for phylogenetic tree inference from alignment data.
+- Describe key steps in creating a phylogenetic tree.
 
 ## Contents
 - [Phylogenetic Tree Inference](#phylogenetic-tree-inference)
