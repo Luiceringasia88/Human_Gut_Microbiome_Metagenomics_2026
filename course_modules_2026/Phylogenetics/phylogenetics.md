@@ -24,7 +24,7 @@ A phylogenetic tree is a graph representing evolutionary history and shared ance
 The topology describes how taxa are connected, independent of branch lengths.
 
 ### Terminologies
-- **Leaves** (tips) - represent actual observed data
+- **Leaves** (tips) - Represent actual observed data
 - **Branches** - Represent evolutionary relationships or the amount of change along lineages.
 - **Terminal nodes** - Are nodes in the tree connected to only one edge and are usually associated with the data, such as a genome sequence. a node can represent an extict species or a sampled pathogen.
 - **Internal nodes** - Represent the most recent common ancestors of groups of terminal nodes, and do not directly correspond to the observed data. They are hypothetical ancestors inferred from the observed genome sequences at the tips of the tree.
